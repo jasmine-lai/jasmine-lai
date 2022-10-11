@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasmine-lai
-- 👀 I’m interested in software engineering and development
+- 💻 I’m interested in software engineering and development
 - 🌱 I’m currently learning web development using HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on coding projects
+- 📈 I’m looking for a co-op during January to August 2023
 - 📫 Contact me at lai.jas@northeastern.edu
 
 <!---
