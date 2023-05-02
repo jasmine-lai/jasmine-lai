@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jasmine-lai
+- 👋 Hi, I’m Jasmine Lai
 - 💻 I’m interested in software engineering and development
-- 🌱 I’m currently learning web development using HTML, CSS, and JavaScript
-- 📈 I’m looking to gain experience through coding projects
+- 🌱 I’m currently learning mobile app development
+- 📈 I’m looking to gain experience through coding projects and internships
 - 📫 Contact me at lai.jas@northeastern.edu
 - The following project repos can be made available upon request:
     - image-processing, marble-solitaire, maze-solver, seam-carving
