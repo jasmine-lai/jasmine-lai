@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Jasmine Lai
-- 💻 I’m interested in software engineering and development
-- 🌱 I’m currently learning Android development at Google
-- 📈 I’m looking to gain experience through coding projects and internships
-- 📫 Contact me at lai.jas@northeastern.edu
+https://jasmine-lai.github.io
 - The following project repos can be made available upon request:
     - image-processing, marble-solitaire, maze-solver, seam-carving
 
